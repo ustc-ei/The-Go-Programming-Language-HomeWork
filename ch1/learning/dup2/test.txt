@@ -1,0 +1,13 @@
+this is the text txt file.
+we can read 
+1. apple
+1. apple
+1. apple
+2. watermalon
+2. watermalon
+2. watermalon
+3. peach
+3. peach
+3. peach
+3. peach
+3. peach
